@@ -1,0 +1,5 @@
+C:\Users\nathan\Documents\Visual Studio 2008\Projects\PythonDLL\PythonDLL\bin\Debug\PythonDLL.dll
+C:\Users\nathan\Documents\Visual Studio 2008\Projects\PythonDLL\PythonDLL\bin\Debug\PythonDLL.pdb
+C:\Users\nathan\Documents\Visual Studio 2008\Projects\PythonDLL\PythonDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan\Documents\Visual Studio 2008\Projects\PythonDLL\PythonDLL\obj\Debug\PythonDLL.dll
+C:\Users\nathan\Documents\Visual Studio 2008\Projects\PythonDLL\PythonDLL\obj\Debug\PythonDLL.pdb

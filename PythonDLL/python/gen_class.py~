@@ -1,0 +1,6 @@
+﻿from Cheetah.Template import Template
+
+result = Template(templateDef, searchList=[gen])
+
+
+
